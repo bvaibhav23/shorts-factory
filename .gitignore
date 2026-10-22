@@ -1,0 +1,11 @@
+node_modules/
+output/
+yt-browser-session/
+.env
+*.wav
+*.mp4
+*.webm
+*.ass
+youtube-token.json
+client_secret.json
+branding
